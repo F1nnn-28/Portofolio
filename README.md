@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a student at High School, curios about tech. my main skill is at System Administartion and Network engineering. also doing some front end developing.<br>
+I am a high school student with a deep passion for **System Administration**, **Network Enggieering**, and **Linux Ecosystems**. I love exploring how servers work, managing networks, and automating systems to build reliable infrastructure. 
+
+Right now, I am focusing on building my foundational skills, running a self-hosted lab, and preparing for industry certifications.<br>
 
 
 ## 🌐 Socials:
